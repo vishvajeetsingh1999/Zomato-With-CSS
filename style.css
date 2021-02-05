@@ -1,0 +1,313 @@
+
+
+.abc{
+  display: flex;
+  padding: 50px;
+  font-family: roboto;
+  
+}
+
+.right{
+  flex:0.5;
+  color: white;
+  margin: 5px;
+  margin-left: 100PX;
+
+}
+
+
+
+
+.left{
+  flex:0.5;
+  color: white;
+  text-decoration: none;
+
+  margin-left: 700px;
+}
+
+.left a{
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+  
+}
+
+.search{
+
+margin-left: 42%;
+
+ width: 5000px;
+height: 100px; 
+}
+
+.gallry{
+padding: 40px;
+margin-left: 15px;
+float: left;
+object-fit:contain;
+padding: 60px;
+
+}
+
+.gallry img{
+  border: 1px solid black;
+  
+  
+}
+
+.amit{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 60px;
+  margin-top: 10px;
+}
+
+img:hover{
+
+  border-radius: 10px;
+}
+
+.dipu{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+/* padding: 40px; */
+color: #363636; 
+margin-left: 40px;
+
+}
+#babul{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 40px;
+margin-top: 0;
+color: #363636;
+}
+
+.raju img{
+  /* margin-left: 50px;
+  flex: 0.5; */
+  /* padding: 30px;
+  margin-left: 15px;
+  float: left;
+  object-fit:contain;
+  margin-top: 10px;
+} */
+
+.raju{
+  position: relative;
+  width: 90px;
+  margin: 0 auto;
+}
+padding: 40px;
+margin-left: 15px;
+float: left;
+object-fit:contain;
+padding: 60px;
+
+}
+#mmm{
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 20px; */
+  /* margin-left: 40px; */
+  text-align: center;
+  margin-top: 0;
+  color: #363636;
+  }
+ 
+  .grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto; 
+  padding: 20px;
+  /* margin-top: auto; */
+  
+  }
+
+
+
+.varun{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #1c1c1c;
+  /* border: 1px; */
+  margin: 50px; 
+  border: 1px solid black;
+  width: 300px;
+  /* height: 50px; */
+  /* padding: 10px; */
+  /* text-align: center; */
+  padding: 10px;
+margin-top: 5px;
+text-align: center;
+
+}
+
+.iphone{
+  display: flex;
+  /* align-items: center; */
+margin-left: 25%;
+/* flex-direction: row; */
+}
+
+
+.read{
+font-family: Arial, Helvetica, sans-serif;
+/* margin: 10px; */
+color: #1c1c1c;
+font-size: 30px;
+
+}
+
+.read p{
+  font-size: 16px;
+  color: #363636;
+ 
+}
+
+
+#the{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+color: #1c1c1c;
+
+}
+
+#day{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #1c1c1c;
+
+}
+
+#fail{
+width: 300px;
+height: 40px;
+/* padding:10px ; */
+margin: 5px;
+
+}
+
+#never{
+/* border: solid black; */
+/* border-width: 12px; */
+
+color:#ffff;
+width: 150px;
+height: 40px;
+background-color: #ED5A6B;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+
+#small{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-left: 100px;
+  color: #363636;
+}
+
+#every{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  margin-left: 100px;
+  color: #363636;
+ 
+
+}
+
+#step{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-left: 100px;
+  color: #828282;
+word-spacing: 5px;
+column-count: 30px;
+line-height: 30px;
+width: 85%;
+
+}
+
+#book{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  margin-left: 100px;
+  color: #363636;
+}
+
+#ac{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-left: 100px;
+  color: #828282;
+word-spacing: 5px;
+column-count: 30px;
+line-height: 30px;
+width: 85%;
+
+}
+
+.boy{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  margin-left: 100px;
+  color: #363636;
+
+}
+
+.grid-container1{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 20px;
+}
+
+.mac{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #828282;
+    padding: 10px;
+    margin-left: 100px;
+    font-size: 16px;
+}
+
+#hp{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  margin-left: 100px;
+  color: #363636;
+ 
+  
+}
+
+.grid-container2{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 20px;
+}
+
+.acer{
+  font-family: Arial, Helvetica, sans-serif;
+    color: #828282;
+    padding: 10px;
+    margin-left: 100px;
+    font-size: 16px;
+}
+.acer1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #363636;
+  padding: 10px;
+  margin-left: 100px;
+  font-size: 16px;
+}
+
+#code{
+  width: 500px;
+height: 50px;
+/* margin-left: 550px; */
+
+}
+
+
+#door{
+  width: 100px;
+height: 50px;
+
+margin-left: 480px;
+}
